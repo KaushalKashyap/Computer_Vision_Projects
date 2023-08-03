@@ -1,2 +1,3 @@
 from both algorithms a common file needed is haarcascade_frontalface_default.xml.
 It is nothing but just a pre-trained model to detect face from image and match it with Other feed (either image or camera feed)...
+Make sure that you have the "haarcascade_frontalface_default.xml" file in the same directory where your python execution file exist. 
